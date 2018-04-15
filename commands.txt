@@ -1,0 +1,2 @@
+npm install babel-present-es2015 --save-dev
+npm install babel-preset-env --save-dev
